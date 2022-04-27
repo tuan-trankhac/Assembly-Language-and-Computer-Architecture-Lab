@@ -1,4 +1,6 @@
-# Tran Khac Tuan - 20200554
+# Author: Tran Khac Tuan 
+# Student Code : 20200554
+# SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY
 
 #Laboratory Exercise 2, Assignment 5
 .text 
