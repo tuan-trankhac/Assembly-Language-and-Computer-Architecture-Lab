@@ -1,5 +1,6 @@
-# Tran Khac Tuan - 20200554
-# Bai tap 3-1
+# Author: Tran Khac Tuan 
+# Student Code : 20200554
+# SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY
 
 # Laboratory exercise 2, Assignment 1
 .text
