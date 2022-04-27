@@ -1,4 +1,7 @@
-# Tran Khac Tuan 20200554
+# Author: Tran Khac Tuan 
+# Student Code : 20200554
+# SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY
+
 .data
 	result1: .asciiz "\nfirst value = "
 	result2: .asciiz "\nsecond value = "
