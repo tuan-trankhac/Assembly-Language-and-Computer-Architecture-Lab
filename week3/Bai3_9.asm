@@ -1,5 +1,7 @@
-# Tran Khac Tuan - 20200554
-# Purpose: Calcu
+# Author: Tran Khac Tuan 
+# Student Code : 20200554
+# SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGY - HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY
+
 .data
 	get_n: .asciiz "Enter n: "
 	get_T: .asciiz "Enter T: "
